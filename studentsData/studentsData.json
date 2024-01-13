@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Salahuddin",
+    "class": "one",
+    "score": "A+",
+    "percentage": "98%",
+    "photo": "../../../images/salahuddin.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Akash",
+    "class": "one",
+    "score": "A",
+    "percentage": "90%",
+    "photo": "../../../images/akash.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sadh",
+    "class": "two",
+    "score": "A+",
+    "percentage": "95%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Obaidul",
+    "class": "two",
+    "score": "A",
+    "percentage": "92%",
+    "photo": "../../../images/obaidul.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Noyon",
+    "class": "three",
+    "score": "A",
+    "percentage": "91%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sabbir",
+    "class": "three",
+    "score": "A+",
+    "percentage": "96%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mitu",
+    "class": "one",
+    "score": "B+",
+    "percentage": "88%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rakib",
+    "class": "one",
+    "score": "A",
+    "percentage": "92%",
+    "photo": "../../../images/obaidul.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rafiq",
+    "class": "two",
+    "score": "A",
+    "percentage": "94%",
+    "photo": "../../../images/akash.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Jannat",
+    "class": "two",
+    "score": "A+",
+    "percentage": "97%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Tasnim",
+    "class": "three",
+    "score": "B",
+    "percentage": "85%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Rina",
+    "class": "three",
+    "score": "A+",
+    "percentage": "98%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Arif",
+    "class": "one",
+    "score": "B",
+    "percentage": "87%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Tania",
+    "class": "one",
+    "score": "A",
+    "percentage": "91%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Munna",
+    "class": "two",
+    "score": "B+",
+    "percentage": "89%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Lima",
+    "class": "two",
+    "score": "A",
+    "percentage": "93%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Bilal",
+    "class": "three",
+    "score": "A",
+    "percentage": "92%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Maliha",
+    "class": "three",
+    "score": "A+",
+    "percentage": "96%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Sakib",
+    "class": "one",
+    "score": "B",
+    "percentage": "86%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Rafia",
+    "class": "one",
+    "score": "A+",
+    "percentage": "95%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Rifat",
+    "class": "two",
+    "score": "B+",
+    "percentage": "88%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Farah",
+    "class": "two",
+    "score": "A",
+    "percentage": "92%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Sajib",
+    "class": "three",
+    "score": "B",
+    "percentage": "84%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Nasrin",
+    "class": "three",
+    "score": "A",
+    "percentage": "91%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Rahat",
+    "class": "one",
+    "score": "B+",
+    "percentage": "89%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Ishita",
+    "class": "one",
+    "score": "A",
+    "percentage": "93%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Riaz",
+    "class": "two",
+    "score": "A+",
+    "percentage": "97%",
+    "photo": "../../../images/noyon.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Lipi",
+    "class": "two",
+    "score": "B",
+    "percentage": "85%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Ahsan",
+    "class": "three",
+    "score": "A",
+    "percentage": "92%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Mou",
+    "class": "three",
+    "score": "A+",
+    "percentage": "96%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Nabil",
+    "class": "one",
+    "score": "B",
+    "percentage": "87%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Rima",
+    "class": "one",
+    "score": "A+",
+    "percentage": "91%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Fahim",
+    "class": "two",
+    "score": "B+",
+    "percentage": "88%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Liza",
+    "class": "two",
+    "score": "A",
+    "percentage": "92%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Sifat",
+    "class": "three",
+    "score": "B",
+    "percentage": "84%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Nashit",
+    "class": "three",
+    "score": "A+",
+    "percentage": "95%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Faria",
+    "class": "one",
+    "score": "B",
+    "percentage": "86%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Rohan",
+    "class": "one",
+    "score": "A",
+    "percentage": "91%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Rumki",
+    "class": "two",
+    "score": "B+",
+    "percentage": "89%",
+    "photo": "../../../images/sadh.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Samin",
+    "class": "two",
+    "score": "A+",
+    "percentage": "97%",
+    "photo": "../../../images/sadh.jpg"
+  }
+]
