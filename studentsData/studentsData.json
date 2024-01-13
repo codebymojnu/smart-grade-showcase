@@ -5,7 +5,7 @@
     "class": "one",
     "score": "A+",
     "percentage": "98%",
-    "photo": "../../../images/salahuddin.jpg"
+    "photo": "../../../studentImages/salahuddin.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "class": "one",
     "score": "A",
     "percentage": "90%",
-    "photo": "../../../images/akash.jpg"
+    "photo": "../../../studentImages/akash.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "class": "two",
     "score": "A+",
     "percentage": "95%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "class": "two",
     "score": "A",
     "percentage": "92%",
-    "photo": "../../../images/obaidul.jpg"
+    "photo": "../../../studentImages/obaidul.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "class": "three",
     "score": "A",
     "percentage": "91%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "class": "three",
     "score": "A+",
     "percentage": "96%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "class": "one",
     "score": "B+",
     "percentage": "88%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "class": "one",
     "score": "A",
     "percentage": "92%",
-    "photo": "../../../images/obaidul.jpg"
+    "photo": "../../../studentImages/obaidul.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "class": "two",
     "score": "A",
     "percentage": "94%",
-    "photo": "../../../images/akash.jpg"
+    "photo": "../../../studentImages/akash.jpg"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "class": "two",
     "score": "A+",
     "percentage": "97%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "class": "three",
     "score": "B",
     "percentage": "85%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "class": "three",
     "score": "A+",
     "percentage": "98%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "class": "one",
     "score": "B",
     "percentage": "87%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "class": "one",
     "score": "A",
     "percentage": "91%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "class": "two",
     "score": "B+",
     "percentage": "89%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "class": "two",
     "score": "A",
     "percentage": "93%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "class": "three",
     "score": "A",
     "percentage": "92%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "class": "three",
     "score": "A+",
     "percentage": "96%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "class": "one",
     "score": "B",
     "percentage": "86%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "class": "one",
     "score": "A+",
     "percentage": "95%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "class": "two",
     "score": "B+",
     "percentage": "88%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "class": "two",
     "score": "A",
     "percentage": "92%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "class": "three",
     "score": "B",
     "percentage": "84%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "class": "three",
     "score": "A",
     "percentage": "91%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "class": "one",
     "score": "B+",
     "percentage": "89%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "class": "one",
     "score": "A",
     "percentage": "93%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "class": "two",
     "score": "A+",
     "percentage": "97%",
-    "photo": "../../../images/noyon.jpg"
+    "photo": "../../../studentImages/noyon.jpg"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "class": "two",
     "score": "B",
     "percentage": "85%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "class": "three",
     "score": "A",
     "percentage": "92%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "class": "three",
     "score": "A+",
     "percentage": "96%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "class": "one",
     "score": "B",
     "percentage": "87%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "class": "one",
     "score": "A+",
     "percentage": "91%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "class": "two",
     "score": "B+",
     "percentage": "88%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "class": "two",
     "score": "A",
     "percentage": "92%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "class": "three",
     "score": "B",
     "percentage": "84%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "class": "three",
     "score": "A+",
     "percentage": "95%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "class": "one",
     "score": "B",
     "percentage": "86%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "class": "one",
     "score": "A",
     "percentage": "91%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "class": "two",
     "score": "B+",
     "percentage": "89%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   },
   {
     "id": 40,
@@ -317,6 +317,6 @@
     "class": "two",
     "score": "A+",
     "percentage": "97%",
-    "photo": "../../../images/sadh.jpg"
+    "photo": "../../../studentImages/sadh.jpg"
   }
 ]
